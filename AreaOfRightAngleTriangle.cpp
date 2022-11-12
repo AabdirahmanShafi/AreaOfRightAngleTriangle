@@ -11,5 +11,5 @@ int main(){
     cout<<"\nEnter the hypotenuse of a riaght angle traingle: ";
     cin>>hypotenuse;
     area =0.5* base * height;
-    cout<<"\n\nArea of Right angle triangle";
+    cout<<"\n\nArea of Right angle triangle"<<area<<endl;
 }
